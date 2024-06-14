@@ -1,0 +1,31 @@
+body {
+    font-family: special-elite;
+}
+#header_div{
+    background-color: dimgray;
+    color: aliceblue;
+}
+#main_div{
+    background-color: gainsboro;
+    height: 660px;
+}
+button{
+    width: 100px;
+    margin-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+}
+#note{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    letter-spacing: 2px;
+    font-size: 10px;
+}
+#credits{
+    background-color: azure;
+    color: gray;
+    height: 100px;
+    text-shadow: 100px;
+    line-height: 30px;
+    font: 50px;
+}
